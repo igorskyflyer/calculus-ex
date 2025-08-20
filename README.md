@@ -26,25 +26,25 @@
 
 ## 🤖 Features
 
-- 📂 custom data format support - import and export proprietary .cxf binary tables, plus file drag‑and‑drop and command‑line file open
+- 📂 **custom data format support** - import and export proprietary .cxf binary tables, plus file drag‑and‑drop and command‑line file open
 
-- 🌐 multi‑format export - save grids as HTML (styled) or as JPG/PNG/BMP images, with embedded icons in HTML
+- 🌐 **multi‑format export** - save grids as HTML (styled) or as JPG/PNG/BMP images, with embedded icons in HTML
 
-- 📊 dynamic grid management - generate grids from user‑defined criteria/alternatives, auto‑label entries, adjust dimensions, format numbers, and store layout/appearance preferences
+- 📊 **dynamic grid management** - generate grids from user‑defined criteria/alternatives, auto‑label entries, adjust dimensions, format numbers, and store layout/appearance preferences
 
-- 🎲 data entry utilities - populate with random values within set bounds, clear contents with confirmation, restrict invalid input
+- 🎲 **data entry utilities** - populate with random values within set bounds, clear contents with confirmation, restrict invalid input
 
-- 🛠️ structural editing - add, delete, or reorder criteria and - alternatives, highlight selections, and custom‑render grid cells for headers/states
+- 🛠️ **structural editing** - add, delete, or reorder criteria and - alternatives, highlight selections, and custom‑render grid cells for headers/states
 
-- 📈 analytical computation - perform compromise programming analysis, calculate weighted/maximum/sum deviations, and present results in detailed, list, or ranking views
+- 📈 **analytical computation** - perform compromise programming analysis, calculate weighted/maximum/sum deviations, and present results in detailed, list, or ranking views
 
-- 🖥️ user interaction enhancements - search grid via Find dialog, toggle fullscreen, adjust font size persistently, and show context‑aware menus
+- 🖥️ **user interaction enhancements** - search grid via Find dialog, toggle fullscreen, adjust font size persistently, and show context‑aware menus
 
-- 💾 session persistence - save fonts, colors, fill ranges, and formatting in the windows registry for auto‑restoration
+- 💾 **session persistence** - save fonts, colors, fill ranges, and formatting in the windows registry for auto‑restoration
 
-- 🧰 utility functions - capture grid as an image, open app website, show about dialog, restart app from menu, and handle errors gracefully
+- 🧰 **utility functions** - capture grid as an image, open app website, show about dialog, restart app from menu, and handle errors gracefully
 
-- ⚙️ high customization abilities - configure colors, fonts, numeric format, fill range, and sound preferences, with options to import/export .cxc configuration files, reset to defaults, and save all changes to the registry
+- ⚙️ **highly-customizable** - configure colors, fonts, numeric format, fill range, and sound preferences, with options to import/export .cxc configuration files, reset to defaults, and save all changes to the registry
 
 <br>
 <br>
