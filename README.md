@@ -14,15 +14,17 @@
 
 ## 📃 Table of Contents
 
-- [Features](#-features)
-- [Changelog](#-changelog)
-- [Support](#-support)
-- [License](#-license)
-- [Related](#-related)
-- [Author](#-author)
+- [**Motivation**](#-motivation)
+- [**Features**](#-features)
+- [**Changelog**](#-changelog)
+- [**Support**](#-support)
+- [**License**](#-license)
+- [**Related**](#-related)
+- [**Author**](#-author)
 
 <br>
-<br>
+
+## 🧠 Motivation
 
 ## 🤖 Features
 
@@ -82,31 +84,31 @@ Licensed under the [GPLv3 license](https://github.com/igorskyflyer/calculus-ex/b
 
 ## 🧬 Related
 
-[@igor.dvlpr/unc-path](https://www.npmjs.com/package/@igor.dvlpr/unc-path)
+[@igorskyflyer/unc-path](https://www.npmjs.com/package/@igorskyflyer/unc-path)
 
 > _🥽 Provides ways of parsing UNC paths and checking whether they are valid. 🎱_
 
 <br>
 
-[@igor.dvlpr/registry-apppaths](https://www.npmjs.com/package/@igor.dvlpr/registry-apppaths)
+[@igorskyflyer/registry-apppaths](https://www.npmjs.com/package/@igorskyflyer/registry-apppaths)
 
 > _🪀 A Node.js module for reading the AppPaths registry key on Windows. Useful for retrieving applications that can be launched from the command prompt. 🗃_
 
 <br>
 
-[@igor.dvlpr/rawelement](https://www.npmjs.com/package/@igor.dvlpr/rawelement)
+[@igorskyflyer/rawelement](https://www.npmjs.com/package/@igorskyflyer/rawelement)
 
 > _🐯 A utility that lets you manipulate HTML elements, their attributes and innerHTML as strings, on the go and then render the modified HTML. Very useful in SSG projects. 💤_
 
 <br>
 
-[@igor.dvlpr/node-clone-js](https://www.npmjs.com/package/@igor.dvlpr/node-clone-js)
+[@igorskyflyer/node-clone-js](https://www.npmjs.com/package/@igorskyflyer/node-clone-js)
 
 > _🧬 A lightweight JavaScript utility allowing deep copy-by-value of nested objects, arrays and arrays of objects. 🪁_
 
 <br>
 
-[@igor.dvlpr/mp3size](https://www.npmjs.com/package/@igor.dvlpr/mp3size)
+[@igorskyflyer/mp3size](https://www.npmjs.com/package/@igorskyflyer/mp3size)
 
 > _🧮 Calculates an estimated file size of Mp3 files. 🎶_
 
@@ -115,4 +117,5 @@ Licensed under the [GPLv3 license](https://github.com/igorskyflyer/calculus-ex/b
 <br>
 
 ## 👨🏻‍💻 Author
-Created by **Igor Dimitrijević** ([*@igorskyflyer*](https://github.com/igorskyflyer/)).
+
+Created by **Igor Dimitrijević** ([_@igorskyflyer_](https://github.com/igorskyflyer/)).
