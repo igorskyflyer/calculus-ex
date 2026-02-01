@@ -96,7 +96,7 @@ The task was notorious; the professor revealed that in the **five** years since 
 
 ## 🚀 Technical Summary
 
-**Environment**: `Win32` (_Native_)  
+**Environment**: `Win32` (_Native_, Windows 7)  
 **Development Platform**: `Delphi` / `Object Pascal`  
 **Output Formats**: _custom binary file_ (`.cxf`), _custom config file_ (`.cxc`), _Web_ (`HTML`), _raster graphics_ (`PNG`, `JPG`, `BMP`)  
 **Optimization Strategy**: _direct_ `Win32 API` calls and `GDI` rendering for maximum performance and low-latency `UI` response.
