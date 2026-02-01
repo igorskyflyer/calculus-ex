@@ -114,7 +114,7 @@ Licensed under the [GPLv3 license](https://github.com/igorskyflyer/calculus-ex/b
   Consider buying me a coffee. ☕
   <br>
   <br>
-  <a href="https://ko-fi.com/igorskyflyer" target="_blank"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/ko-fi.png" alt="Donate to igorskyflyer" width="180" height="46"></a>
+  <a href="https://ko-fi.com/igorskyflyer" target="_blank"><img src="https://raw.githubusercontent.com/igorskyflyer/igorskyflyer/main/assets/ko-fi.png" alt="Donate to Igor Dimitrijević (igorskyflyer)" width="180" height="46"></a>
   <br>
   <br>
   <em>Thank you for supporting my efforts!</em> 🙏😊
