@@ -99,7 +99,7 @@ Igor didn't just solve the mathematical core, he transformed the challenge into 
 
 **Environment**: `Win32` (_Native_)  
 **Development Platform**: `Delphi` / `Object Pascal`  
-**Output Formats**: _custom binary_ (`.cxf`), _custom config_ (`.cxc`), _Web_ (`HTML`), _raster graphics_ (`PNG`, `JPG`, `BMP`)  
+**Output Formats**: _custom binary file_ (`.cxf`), _custom config file_ (`.cxc`), _Web_ (`HTML`), _raster graphics_ (`PNG`, `JPG`, `BMP`)  
 **Optimization Strategy**: _direct_ `Win32 API` calls and `GDI` rendering for maximum performance and low-latency `UI` response.
 
 <br>
