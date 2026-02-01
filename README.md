@@ -93,20 +93,17 @@
 **Optimization Strategy**: _Direct_ `Win32 API` calls and `GDI` rendering for maximum performance and low-latency `UI` response.
 
 <br>
-<br>
 
 ## 📝 Changelog
 
 📑 The changelog is available here, [CHANGELOG.md](https://github.com/igorskyflyer/calculus-ex/blob/main/CHANGELOG.md).
 
 <br>
-<br>
 
 ## 🪪 License
 
 Licensed under the [GPLv3 license](https://github.com/igorskyflyer/calculus-ex/blob/main/LICENSE).
 
-<br>
 <br>
 
 ## 💖 Support
