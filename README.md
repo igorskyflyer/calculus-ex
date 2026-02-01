@@ -32,7 +32,8 @@
 
 ## 🧠 Motivation
 
-`CalculusEx` was born from an intellectual gauntlet.  
+`CalculusEx` was born from an intellectual gauntlet.
+
 During his college years, while Igor was already balancing freelance development and teaching programming to fellow students, he was presented with a challenge by his professor: to develop a functional solver for complex equations using the `Linear Programming` method.
 The task was notorious; the professor revealed that in the **five** years since he had introduced the challenge, no student had been able to successfully solve it.
 Igor didn't just solve the mathematical core; he transformed the challenge into a showcase of extreme engineering. He delivered a comprehensive software suite featuring custom binary formats, a bespoke GDI-rendered UI, and deep system-level optimizations. The result was a definitive success: Igor was awarded a 10 (A), receiving high praise from the faculty for a solution that had eluded his predecessors for half a decade.
