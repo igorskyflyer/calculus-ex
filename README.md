@@ -151,7 +151,7 @@ Licensed under the [GPLv3 license](https://github.com/igorskyflyer/calculus-ex/b
 
 <br>
 
-[@igorskyflyer/node-clone-js](https://www.npmjs.com/package/@igorskyflyer/node-clone-js)
+[@igorskyflyer/clone](https://www.npmjs.com/package/@igorskyflyer/clone)
 
 > _🧬 A lightweight JavaScript utility allowing deep copy-by-value of nested objects, arrays and arrays of objects. 🪁_
 
