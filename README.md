@@ -32,9 +32,6 @@
 
 ## 🧠 Motivation
 
-<br>
-<br>
-
 ## 🤖 Features
 
 - 📂 **custom data format support** - import and export proprietary `.cxf` binary tables, plus file drag‑and‑drop and command‑line file open
@@ -64,7 +61,7 @@
 
 ### Computational Logic
 
-`CalculusEx` implements a robust mathematical engine based on **Linear Optimization** (_LP_) and **Compromise Programming**. The software is engineered to process **\(m\)** criteria across **\(n\)** alternatives to derive:**\(S\_{n}\)** (_Group Utility_): The sum of weighted distances from the ideal solution. **\(R\_{n}\)** (_Individual Regret_): The maximum individual weighted distance. **\(S\_{p}\)** (_Compromise Ranking_): A final synthesized score used to rank alternatives in order of mathematical preference.
+`CalculusEx` implements a robust mathematical engine based on **Linear Optimization** (_LP_) and **Compromise Programming**. The software is engineered to process **$m$** criteria across **$n$** alternatives to derive:**$S_{n}$** (_Group Utility_): The sum of weighted distances from the ideal solution. **$R_{n}$** (_Individual Regret_): The maximum individual weighted distance. **$S_{p}$** (_Compromise Ranking_): A final synthesized score used to rank alternatives in order of mathematical preference.
 
 ### Data Management & Interoperability
 
