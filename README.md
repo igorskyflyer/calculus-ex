@@ -89,8 +89,8 @@
 
 **Environment**: `Win32` (_Native_)  
 **Development Platform**: `Delphi` / `Object Pascal`  
-**Output Formats**: _Binary_ (`.cxf`), _Config_ (`.cxc`), _Web_ (`HTML`), _Raster Graphics_ (`PNG`, `JPG`, `BMP`)  
-**Optimization Strategy**: _Direct_ `Win32 API` calls and `GDI` rendering for maximum performance and low-latency `UI` response.
+**Output Formats**: _custom binary_ (`.cxf`), _custom config_ (`.cxc`), _Web_ (`HTML`), _raster graphics_ (`PNG`, `JPG`, `BMP`)  
+**Optimization Strategy**: _direct_ `Win32 API` calls and `GDI` rendering for maximum performance and low-latency `UI` response.
 
 <br>
 
