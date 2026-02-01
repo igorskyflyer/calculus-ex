@@ -50,7 +50,7 @@ Igor didn't just solve the mathematical core, he transformed the challenge into 
 
 - 🎲 **data entry utilities** - populate with random values within set bounds, clear contents with confirmation, restrict invalid input
 
-- 🛠️ **structural editing** - add, delete, or reorder criteria and - alternatives, highlight selections, and custom‑render grid cells for headers/states
+- 🛠️ **structural editing** - add, delete, or reorder criteria and alternatives, highlight selections, and custom‑render grid cells for headers/states
 
 - 📈 **analytical computation** - perform compromise programming analysis, calculate weighted/maximum/sum deviations, and present results in detailed, list, or ranking views
 
@@ -90,7 +90,7 @@ Igor didn't just solve the mathematical core, he transformed the challenge into 
 ### Operational Efficiency
 
 - resource-light execution: optimized via stripped `Portable Executable` (PE) headers to ensure a minimal memory footprint and high-speed execution on legacy and modern Windows systems
-- persistence & configuration: full session state recovery via Windows `Registry` integration and `.cxc`configuration export for standardized environment deployment
+- persistence & configuration: full session state recovery via Windows `Registry` integration and `.cxc` configuration export for standardized environment deployment
 - adaptive interface: dynamic UI engine that automatically scales layout and grid dimensions based on text-metric analysis and user-defined numeric formatting
 
 <br>
