@@ -61,7 +61,7 @@
 
 ### Computational Logic
 
-`CalculusEx` implements a robust mathematical engine based on **Linear Optimization** (_LP_) and **Compromise Programming**. The software is engineered to process **$m$** criteria across **$n$** alternatives to derive:**$S_{n}$** (_Group Utility_): The sum of weighted distances from the ideal solution. **$R_{n}$** (_Individual Regret_): The maximum individual weighted distance. **$S_{p}$** (_Compromise Ranking_): A final synthesized score used to rank alternatives in order of mathematical preference.
+`CalculusEx` implements a robust mathematical engine based on **Linear Optimization** (_LP_) and **Compromise Programming**. The software is engineered to process **$m$** criteria across **$n$** alternatives to derive: **$S_{n}$** (_Group Utility_): The sum of weighted distances from the ideal solution. **$R_{n}$** (_Individual Regret_): The maximum individual weighted distance. **$S_{p}$** (_Compromise Ranking_): A final synthesized score used to rank alternatives in order of mathematical preference.
 
 ### Data Management & Interoperability
 
