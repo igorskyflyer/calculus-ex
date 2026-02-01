@@ -1,12 +1,12 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/igorskyflyer/calculus-ex/main/assets/calculus-ex.png" alt="Icon of CalculusEx" width="256" height="256">
-<h1 align="center">CalculusEx</h1>
+  <h1 align="center">CalculusEx</h1>
 </div>
 
 <br>
 
 <div align="center">
-  A mathematical software which solves equations using the linear programming method. Linear programming (LP) (also called linear optimization) is a method to achieve the best outcome (such as maximum profit or lowest cost) in a mathematical model whose requirements are represented by linear relationships. Written in Delphi.
+  <code>CalculusEx</code> is a specialized mathematical software for desktop designed for mathematical modeling and decision-making through <code>Linear Programming</code> and <code>Compromise Programming</code> methods. It facilitates the resolution of complex multi-objective problems by identifying the optimal balance between group utility and individual regret.
 </div>
 
 <br>
@@ -26,11 +26,13 @@
 
 ## 🧠 Motivation
 
+The
+
 ## 🤖 Features
 
-- 📂 **custom data format support** - import and export proprietary .cxf binary tables, plus file drag‑and‑drop and command‑line file open
+- 📂 **custom data format support** - import and export proprietary `.cxf` binary tables, plus file drag‑and‑drop and command‑line file open
 
-- 🌐 **multi‑format export** - save grids as HTML (styled) or as JPG/PNG/BMP images, with embedded icons in HTML
+- 🌐 **multi‑format export** - save grids as `HTML` (styled) or as `JPG`/`PNG`/`BMP` images, with embedded icons in `HTML`
 
 - 📊 **dynamic grid management** - generate grids from user‑defined criteria/alternatives, auto‑label entries, adjust dimensions, format numbers, and store layout/appearance preferences
 
@@ -46,7 +48,7 @@
 
 - 🧰 **utility functions** - capture grid as an image, open app website, show about dialog, restart app from menu, and handle errors gracefully
 
-- ⚙️ **highly-customizable** - configure colors, fonts, numeric format, fill range, and sound preferences, with options to import/export .cxc configuration files, reset to defaults, and save all changes to the registry
+- ⚙️ **highly-customizable** - configure colors, fonts, numeric format, fill range, and sound preferences, with options to import/export `.cxc` configuration files, reset to defaults, and save all changes to the registry
 
 <br>
 <br>
