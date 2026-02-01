@@ -6,7 +6,7 @@
 <br>
 
 <div align="center">
-  <code>CalculusEx</code> is a specialized mathematical software for desktop designed for mathematical modeling and decision-making through <code>Linear Programming</code> and <code>Compromise Programming</code> methods. It facilitates the resolution of complex multi-objective problems by identifying the optimal balance between group utility and individual regret.
+  <code>CalculusEx</code> is a specialized mathematical software for desktop designed for mathematical modeling and decision-making through <strong><em>Linear Programming</em></strong> and <strong><em>Compromise Programming</em></strong> methods. It facilitates the resolution of complex multi-objective problems by identifying the optimal balance between group utility and individual regret.
 </div>
 
 <br>
@@ -16,6 +16,12 @@
 
 - [**Motivation**](#-motivation)
 - [**Features**](#-features)
+- [**Implementation**](#-implementation)
+  - [**Computational Logic**](#computational-logic)
+  - [**Data Management & Interoperability**](#data-management--interoperability)
+  - [**Precision & Validation Architecture**](#precision--validation-architecture)
+  - [**Operational Efficiency**](#operational-efficiency)
+- [**Technical Summary**](#-technical-summary)
 - [**Changelog**](#-changelog)
 - [**Support**](#-support)
 - [**License**](#-license)
@@ -26,7 +32,8 @@
 
 ## 🧠 Motivation
 
-The
+<br>
+<br>
 
 ## 🤖 Features
 
@@ -49,6 +56,44 @@ The
 - 🧰 **utility functions** - capture grid as an image, open app website, show about dialog, restart app from menu, and handle errors gracefully
 
 - ⚙️ **highly-customizable** - configure colors, fonts, numeric format, fill range, and sound preferences, with options to import/export `.cxc` configuration files, reset to defaults, and save all changes to the registry
+
+<br>
+<br>
+
+## 🧠 Implementation
+
+### Computational Logic
+
+`CalculusEx` implements a robust mathematical engine based on **Linear Optimization** (_LP_) and **Compromise Programming**. The software is engineered to process **\(m\)** criteria across **\(n\)** alternatives to derive:**\(S\_{n}\)** (_Group Utility_): The sum of weighted distances from the ideal solution. **\(R\_{n}\)** (_Individual Regret_): The maximum individual weighted distance. **\(S\_{p}\)** (_Compromise Ranking_): A final synthesized score used to rank alternatives in order of mathematical preference.
+
+### Data Management & Interoperability
+
+- proprietary binary engine: high-speed I/O via `.cxf` binary table format for data integrity
+- cross-platform reporting: generates styled `HTML5` reports with embedded visual assets for browser-based review
+- visual documentation: built-in hardware-accelerated capture for exporting data grids as `PNG`, `JPG`, or `BMP` images
+- `CLI` integration: support for command-line arguments and native Windows drag-and-drop for automated file handling
+
+### Precision & Validation Architecture
+
+- input sanitization: real-time, character-level validation prevents the entry of mathematically invalid strings and ensures data consistency before calculation
+- computational stability: implements hardware-level floating-point exception handling to maintain application uptime during complex singularities or divisions by zero
+- analytical search: context-aware search engine that maps mathematical keys directly to the visual data coordinate system
+
+### Operational Efficiency
+
+- resource-light execution: optimized via stripped `Portable Executable` (PE) headers to ensure a minimal memory footprint and high-speed execution on legacy and modern Windows systems
+- persistence & configuration: full session state recovery via Windows `Registry` integration and `.cxc`configuration export for standardized environment deployment
+- adaptive interface: dynamic UI engine that automatically scales layout and grid dimensions based on text-metric analysis and user-defined numeric formatting
+
+<br>
+<br>
+
+## 🚀 Technical Summary
+
+**Environment**: `Win32` (_Native_)
+**Development Platform**: `Delphi` / `Object Pascal`
+**Output Formats**: _Binary_ (`.cxf`), _Config_ (`.cxc`), _Web_ (`HTML`), _Raster Graphics_ (`PNG`, `JPG`, `BMP`)
+**Optimization Strategy**: _Direct_ `Win32 API` calls and `GDI` rendering for maximum performance and low-latency `UI` response.
 
 <br>
 <br>
