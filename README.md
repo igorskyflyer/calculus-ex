@@ -32,6 +32,8 @@
 
 ## 🧠 Motivation
 
+<br>
+
 ## 🤖 Features
 
 - 📂 **custom data format support** - import and export proprietary `.cxf` binary tables, plus file drag‑and‑drop and command‑line file open
@@ -54,7 +56,6 @@
 
 - ⚙️ **highly-customizable** - configure colors, fonts, numeric format, fill range, and sound preferences, with options to import/export `.cxc` configuration files, reset to defaults, and save all changes to the registry
 
-<br>
 <br>
 
 ## 🧠 Implementation
@@ -82,7 +83,6 @@
 - persistence & configuration: full session state recovery via Windows `Registry` integration and `.cxc`configuration export for standardized environment deployment
 - adaptive interface: dynamic UI engine that automatically scales layout and grid dimensions based on text-metric analysis and user-defined numeric formatting
 
-<br>
 <br>
 
 ## 🚀 Technical Summary
@@ -121,7 +121,6 @@ Licensed under the [GPLv3 license](https://github.com/igorskyflyer/calculus-ex/b
 </div>
 
 <br>
-<br>
 
 ## 🧬 Related
 
@@ -153,8 +152,6 @@ Licensed under the [GPLv3 license](https://github.com/igorskyflyer/calculus-ex/b
 
 > _🧮 Calculates an estimated file size of Mp3 files. 🎶_
 
-<br>
-<br>
 <br>
 
 ## 👨🏻‍💻 Author
