@@ -39,6 +39,10 @@ The task was notorious; the professor revealed that in the **five** years since 
 
 <br>
 
+<strong>Time constraint: 1 week.</strong>
+
+<br>
+
 ## 🤖 Features
 
 - 📂 **custom data format support** - import and export proprietary `.cxf` binary tables, plus file drag‑and‑drop and command‑line file open
