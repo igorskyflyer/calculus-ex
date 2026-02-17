@@ -39,7 +39,7 @@ The task was notorious; the professor revealed that in the **five** years since 
 
 <br>
 
-<strong>Time constraint: 1 week.</strong>
+<strong>Time constraint: 2 weeks.</strong>
 
 <br>
 
