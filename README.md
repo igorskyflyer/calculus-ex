@@ -66,7 +66,7 @@ CalculusEx implements a robust mathematical engine based on **Linear Optimizatio
 
 By _late 2014_, while Igor was already **mentoring fellow students** and managing **freelance development**, he sought a challenge that exceeded standard academic boundaries. During an **Operations Research** course, he accepted a faculty problem involving **Linear Programming** that had gone unsolved by approximately **500 students** over the preceding **five years**.
 
-With a strict **two-week deadline**, Igor independently chose to go beyond the mathematical core and of the assignment, to architect a complete desktop suite using **Delphi** and raw **Win32 APIs**. Driven by an interest in extreme engineering, he developed a **custom GDI rendering engine**, proprietary binary formats (`.cxf` and `.cxc`), and a system for **Compromise Programming**—all while managing a full academic load. The project was a definitive success, earning a perfect **10 (A)** and providing a functional solution to a long-standing challenge that had eluded five years of predecessors.
+With a strict **two-week deadline**, Igor independently chose to go beyond the mathematical core and the assignment, to architect a complete desktop suite using **Delphi** and raw **Win32 APIs**. Driven by an interest in extreme engineering, he developed a **custom GDI rendering engine**, proprietary binary formats (`.cxf` and `.cxc`), and a system for **Compromise Programming**—all while managing a full academic load. The project was a definitive success, earning a perfect **10 (A)** and providing a functional solution to a long-standing challenge that had eluded five years of predecessors.
 
 <br>
 
