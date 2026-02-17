@@ -3,123 +3,86 @@
   <h1 align="center">CalculusEx</h1>
 </div>
 
-<br>
+<blockquote align="center">Mathematical Modeling • Linear Programming • Compromise Programming • Decision-Making Analysis</blockquote>
 
-<div align="center">
-  <code>CalculusEx</code> is a specialized mathematical software for desktop designed for mathematical modeling and decision-making through <strong><em>Linear Programming</em></strong> and <strong><em>Compromise Programming</em></strong> methods. It facilitates the resolution of complex multi-objective problems by identifying the optimal balance between group utility and individual regret.
-</div>
-
-<br>
-<br>
-
-## 📃 Table of Contents
-
-- [**Motivation**](#-motivation)
-- [**Features**](#-features)
-- [**Implementation**](#-implementation)
-  - [**Computational Logic**](#computational-logic)
-  - [**Data Management & Interoperability**](#data-management--interoperability)
-  - [**Precision & Validation Architecture**](#precision--validation-architecture)
-  - [**Operational Efficiency**](#operational-efficiency)
-- [**Technical Summary**](#-technical-summary)
-- [**Changelog**](#-changelog)
-- [**Support**](#-support)
-- [**License**](#-license)
-- [**Related**](#-related)
-- [**Author**](#-author)
+<h4 align="center">
+  A specialized mathematical desktop suite designed for multi-objective optimization and ranking alternatives through group utility and individual regret analysis.
+</h4>
 
 <br>
 
-## 🧠 Motivation
+## Table of Contents
 
-`CalculusEx` was born from an intellectual gauntlet.
-
-During his college years, while Igor was already balancing freelance development and teaching programming to fellow students, he was presented with a challenge by his professor: to develop a functional solver for complex equations using the `Linear Programming` method.
-The task was notorious; the professor revealed that in the **five** years since he had introduced the challenge, no student had been able to successfully solve it. Igor didn't just solve the mathematical core, he transformed the challenge into a showcase of extreme engineering. The original requirement was modest: a functional `Linear Programming` solver, which could have been delivered as a simple terminal application. However, Igor chose to elevate the challenge into a full desktop suite featuring custom binary formats, a bespoke GDI-rendered UI, and deep system-level optimizations. Many of these elements were entirely new to him, tackled for the first time within this project, all while keeping up with classes and exams. The result was a definitive success: Igor was awarded a **10 (A)**, receiving high praise from the professor for a solution that had eluded his predecessors for half a decade.
-
-<br>
-
-<strong>Time constraint: 2 weeks.</strong>
-
-<br>
-
-## 🤖 Features
-
-- 📂 **custom data format support** - import and export proprietary `.cxf` binary tables, plus file drag‑and‑drop and command‑line file open
-
-- 🌐 **multi‑format export** - save grids as `HTML` (styled) or as `JPG`/`PNG`/`BMP` images, with embedded icons in `HTML`
-
-- 📊 **dynamic grid management** - generate grids from user‑defined criteria/alternatives, auto‑label entries, adjust dimensions, format numbers, and store layout/appearance preferences
-
-- 🎲 **data entry utilities** - populate with random values within set bounds, clear contents with confirmation, restrict invalid input
-
-- 🛠️ **structural editing** - add, delete, or reorder criteria and alternatives, highlight selections, and custom‑render grid cells for headers/states
-
-- 📈 **analytical computation** - perform compromise programming analysis, calculate weighted/maximum/sum deviations, and present results in detailed, list, or ranking views
-
-- 🖥️ **user interaction enhancements** - search grid via Find dialog, toggle fullscreen, adjust font size persistently, and show context‑aware menus
-
-- 💾 **session persistence** - save fonts, colors, fill ranges, and formatting in the windows registry for auto‑restoration
-
-- 🧰 **utility functions** - capture grid as an image, open app website, show about dialog, restart app from menu, and handle errors gracefully
-
-- ⚙️ **highly-customizable** - configure colors, fonts, numeric format, fill range, and sound preferences, with options to import/export `.cxc` configuration files, reset to defaults, and save all changes to the registry
+- ✨ [**Features**](#features)
+- ⚙️ [**Implementation**](#implementation)
+- 🎯 [**Motivation**](#motivation)
+- 📝 [**Changelog**](#changelog)
+- 🪪 [**License**](#license)
+- 🧬 [**Related**](#related)
+- 💖 [**Support**](#support)
+- 👨🏻‍💻 [**Author**](#author)
 
 <br>
 
-## 🧠 Implementation
+## Features
+
+- **Custom Data Management**: Support for proprietary `.cxf` binary tables with high-speed I/O, native Windows drag‑and‑drop, and CLI integration for automated file handling.
+- **Analytical Engine**: Executes **Compromise Programming** and **Linear Optimization** to calculate weighted/maximum/sum deviations and generate multi-objective mathematical rankings.
+- **Dynamic Grid Architecture**: Automated grid generation based on user‑defined criteria and alternatives, featuring structural editing (add/delete/reorder) and custom-rendered headers.
+- **Data Entry Utilities**: Features real-time character-level validation to prevent mathematically invalid strings, population with bounded random values, and selection highlighting.
+- **Multi-Format Export**: Generates styled **HTML5** reports with embedded assets and hardware-accelerated raster graphics (**JPG**, **PNG**, **BMP**) of data grids.
+- **System Persistence**: Full session state recovery via Windows Registry integration, storing fonts, colors, numeric formats, and custom configuration (`.cxc`) exports.
+- **Advanced UI Customization**: High-fidelity GDI rendering with 7+ theme variations, persistent font scaling, custom context menus, and a frameless window architecture.
+- **Utility Suite**: Integrated search engine for grid data, session restart logic, and context-aware error handling to maintain application uptime.
+
+<br>
+
+## Implementation
 
 ### Computational Logic
 
-`CalculusEx` implements a robust mathematical engine based on **Linear Optimization** (_LP_) and **Compromise Programming**. The software is engineered to process **$m$** criteria across **$n$** alternatives to derive:
+CalculusEx implements a robust mathematical engine based on **Linear Optimization** ($LP$) and **Compromise Programming**. The software processes $m$ criteria across $n$ alternatives to derive:
 
-- **$S_{n}$** (_Group Utility_): the sum of weighted distances from the ideal solution
-- **$R_{n}$** (_Individual Regret_): the maximum individual weighted distance
-- **$S_{p}$** (_Compromise Ranking_): a final synthesized score used to rank alternatives in order of mathematical preference
+- $S_{n}$ (**Group Utility**): The sum of weighted distances from the ideal solution.
+- $R_{n}$ (**Individual Regret**): The maximum individual weighted distance.
+- $S_{p}$ (**Compromise Ranking**): A synthesized score used to rank alternatives by mathematical preference.
 
 ### Data Management & Interoperability
 
-- proprietary binary engine: high-speed I/O via `.cxf` binary table format for data integrity
-- cross-platform reporting: generates styled `HTML5` reports with embedded visual assets for browser-based review
-- visual documentation: built-in hardware-accelerated capture for exporting data grids as `PNG`, `JPG`, or `BMP` images
-- `CLI` integration: support for command-line arguments and native Windows drag-and-drop for automated file handling
+- **Binary Engine**: Utilizes a proprietary binary format for data integrity and low-latency I/O.
+- **Hardware Acceleration**: Employs hardware-level floating-point exception handling to maintain stability during complex singularities or divisions by zero.
+- **Resource Optimization**: Stripped `Portable Executable` (PE) headers ensure a minimal memory footprint on legacy and modern Windows systems.
 
-### Precision & Validation Architecture
+### UI & Performance
 
-- input sanitization: real-time, character-level validation prevents the entry of mathematically invalid strings and ensures data consistency before calculation
-- computational stability: implements hardware-level floating-point exception handling to maintain application uptime during complex singularities or divisions by zero
-- analytical search: context-aware search engine that maps mathematical keys directly to the visual data coordinate system
-
-### Operational Efficiency
-
-- resource-light execution: optimized via stripped `Portable Executable` (PE) headers to ensure a minimal memory footprint and high-speed execution on legacy and modern Windows systems
-- persistence & configuration: full session state recovery via Windows `Registry` integration and `.cxc` configuration export for standardized environment deployment
-- adaptive interface: dynamic UI engine that automatically scales layout and grid dimensions based on text-metric analysis and user-defined numeric formatting
+- **Direct Win32/GDI**: Bypasses heavy frameworks in favor of direct Win32 API calls for maximum rendering performance.
+- **Adaptive Layout**: Features a dynamic UI engine that scales grid dimensions based on text-metric analysis.
 
 <br>
 
-## 🚀 Technical Summary
+## Motivation
 
-**Environment**: `Win32` (_Native_, `Windows 7`)  
-**Development Platform**: `Delphi` / `Object Pascal`  
-**Output Formats**: _custom binary file_ (`.cxf`), _custom config file_ (`.cxc`), _Web_ (`HTML`), _raster graphics_ (`PNG`, `JPG`, `BMP`)  
-**Optimization Strategy**: _direct_ `Win32 API` calls and `GDI` rendering for maximum performance and low-latency `UI` response.
+`CalculusEx` was born from an intellectual gauntlet that had remained open for half a decade.
 
-<br>
+By _late 2014_, while Igor was already **mentoring fellow students** and managing **freelance development**, he sought a challenge that exceeded standard academic boundaries. During an **Operations Research** course, he accepted a faculty problem involving **Linear Programming** that had gone unsolved by approximately **500 students** over the preceding **five years**.
 
-## 📝 Changelog
-
-📑 The changelog is available here, [CHANGELOG.md](https://github.com/igorskyflyer/calculus-ex/blob/main/CHANGELOG.md).
+With a strict **two-week deadline**, Igor independently chose to go beyond the mathematical core and of the assignment, to architect a complete desktop suite using **Delphi** and raw **Win32 APIs**. Driven by an interest in extreme engineering, he developed a **custom GDI rendering engine**, proprietary binary formats (`.cxf` and `.cxc`), and a system for **Compromise Programming**—all while managing a full academic load. The project was a definitive success, earning a perfect **10 (A)** and providing a functional solution to a long-standing challenge that had eluded five years of predecessors.
 
 <br>
 
-## 🪪 License
+## Changelog
+
+The changelog is available here, [CHANGELOG.md](https://github.com/igorskyflyer/calculus-ex/blob/main/CHANGELOG.md).
+
+<br>
+
+## License
 
 Licensed under the [GPLv3 license](https://github.com/igorskyflyer/calculus-ex/blob/main/LICENSE).
 
 <br>
 
-## 💖 Support
+## Support
 
 <div align="center">
   I work hard for every project, including this one and your support means a lot to me!
@@ -135,7 +98,7 @@ Licensed under the [GPLv3 license](https://github.com/igorskyflyer/calculus-ex/b
 
 <br>
 
-## 🧬 Related
+## Related
 
 [@igorskyflyer/unc-path](https://www.npmjs.com/package/@igorskyflyer/unc-path)
 
@@ -167,6 +130,6 @@ Licensed under the [GPLv3 license](https://github.com/igorskyflyer/calculus-ex/b
 
 <br>
 
-## 👨🏻‍💻 Author
+## Author
 
 Created by **Igor Dimitrijević** ([_@igorskyflyer_](https://github.com/igorskyflyer/)).
